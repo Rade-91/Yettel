@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+	<id>R1</id>
+	<name>Test Run 5/1/2023</name>
+	<description></description>
+	<config></config>
+	<createdon>2023-05-01T16:07:30Z</createdon>
+		<completed>false</completed>
+		<milestone></milestone>
+	<stats>
+										<passed>
+			<percent>100</percent>
+			<count>15</count>
+		</passed>
+											<blocked>
+			<percent>0</percent>
+			<count>0</count>
+		</blocked>
+											<untested>
+			<percent>0</percent>
+			<count>0</count>
+		</untested>
+											<retest>
+			<percent>0</percent>
+			<count>0</count>
+		</retest>
+											<failed>
+			<percent>0</percent>
+			<count>0</count>
+		</failed>
+																																																				</stats>	<sections>
+		<section>
+		<name>Static tests</name>
+		<description></description>
+						<tests>
+						            																																																			<test>
+				<id>T1</id>
+				<title>Does the page load</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C2</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:08:38Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T2</id>
+				<title>Does the logo exists</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C3</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:08:48Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T3</id>
+				<title>Does the colours of the page match the requirements</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C4</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:08:58Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T4</id>
+				<title>Does the Login button exists</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C5</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:09:08Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T5</id>
+				<title>Does login phone number input field exists</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C10</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:09:17Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T6</id>
+				<title>Does the password input field exists</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C11</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:09:29Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T7</id>
+				<title>Does all the fields are positioned correctly</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C12</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:10:13Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T8</id>
+				<title>Does the  Serch box  on the main page is visible</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C49</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:10:22Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T9</id>
+				<title>Does the shopping cart exists</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C50</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:10:32Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Login page</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Positive</name>
+		<description></description>
+						<tests>
+						            																																																			<test>
+				<id>T10</id>
+				<title>User is able to login with valid credentials</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C6</caseid>
+																<status>Passed</status>
+																<assignedto>Radoslav Atev</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:10:46Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+																								<assignedto>Radoslav Atev</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T11</id>
+				<title>Verify user receives code 200</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>High</priority>
+																<estimate>600</estimate>
+																								<references>jira number ticket</references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<preconds>User has valid credentials 
+URL: www.yettel.bg</preconds>
+															<steps_separated><step>
+<index>1</index><content>Given: user has opened endpoint &quot;https://dsp-trk.eskimi.com/tracking/cssession?tst&amp;amp;id=13996&amp;amp;url=https%3A%2F%2Fwww.yettel.bg%2Fbg%2Ffirst_login%2F1528254%253Fdestination%253Dfrontpage&amp;amp;t=1682540150670&quot; in postman</content><expected></expected></step>
+<step>
+<index>2</index><content>when: user executes GET request to the given endpoint</content><expected></expected></step>
+<step>
+<index>3</index><content>Then: user should receive status code 200 ok</content><expected></expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C167</caseid>
+																<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:10:52Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>Given: user has opened endpoint </content><expected></expected><actual></actual><status>Untested</status></step>
+<step>
+<content>when: user executes GET request to the given endpoint</content><expected></expected><actual></actual><status>Untested</status></step>
+<step>
+<content>Then: user should receive status code 200 ok</content><expected></expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Negative</name>
+		<description></description>
+						<tests>
+						            																																																			<test>
+				<id>T12</id>
+				<title>User is not able to login without any credentials</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C7</caseid>
+																<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:10:59Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T13</id>
+				<title>User is not able to login only with phone number</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C8</caseid>
+																<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:11:03Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T14</id>
+				<title>User is not able to login only with password</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+									</custom>
+												<caseid>C9</caseid>
+																<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:11:09Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T15</id>
+				<title>Verify user receives code 405 method not allowed</title>
+												<template>Test Case (Steps)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate>900</estimate>
+																								<references>jira number ticket</references>
+																				<custom>
+															<automation_type><id>0</id><value> None</value></automation_type>
+															<preconds>User has valid credentials </preconds>
+															<steps_separated><step>
+<index>1</index><content>Given: user has opened &quot;https://dsp-trk.eskimi.com/tracking/cssession?tst&amp;amp;id=13996&amp;amp;url=https%3A%2F%2Fwww.yettel.bg%2Fbg%2Ffirst_login%2F1528254%253Fdestination%253Dfrontpage&amp;amp;t=1682540150670&quot; endpoint in postman</content><expected></expected></step>
+<step>
+<index>2</index><content>When user executes DELETE request to the given endpoint</content><expected></expected></step>
+<step>
+<index>3</index><content>Then: user should receive code 405 method not allowed</content><expected></expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C168</caseid>
+																<status>Passed</status>
+								<assignedto></assignedto>
+												<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2023-05-01T16:11:12Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+															<step_results>
+																		<step>
+<content>Given: user has opened </content><expected></expected><actual></actual><status>Untested</status></step>
+<step>
+<content>When user executes DELETE request to the given endpoint</content><expected></expected><actual></actual><status>Untested</status></step>
+<step>
+<content>Then: user should receive code 405 method not allowed</content><expected></expected><actual></actual><status>Untested</status></step>
+								</step_results>
+													</custom>
+											</change>
+															<change>
+						<createdon>2023-05-01T16:07:30Z</createdon>
+																		<createdby>Radoslav Atev</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+</sections>
+			</section>
+		<section>
+		<name>Header page</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Devices</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Plans</name>
+		<description></description>
+									</section>
+		<section>
+		<name>TV and Internet</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Services</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Help</name>
+		<description></description>
+									</section>
+		<section>
+		<name>For Yettel</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Body page</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Smartphones</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Accessoaries</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Pay Bill</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Our Offers</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Web Banners</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Web banner 1</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web banner 2</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web banner 3</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web banner 4</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web banner 5</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web banner 6</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web banner 7</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Web banner 8</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Footer page</name>
+		<description></description>
+									</section>
+</sections>
+</run>
